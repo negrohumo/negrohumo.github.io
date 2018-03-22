@@ -5,6 +5,7 @@ body {
 	font-size: 10px;
 	color: #333333;
 	background-color: #fff;
+	background-image:url(images/fondo-x.jpg);
 	margin: 0px;
 }
 a:link {

@@ -4,7 +4,7 @@ body {
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 10px;
 	color: #333333;
-	background-color: #FFF;
+	background-color: #fff;
 	margin: 0px;
 }
 a:link {
@@ -78,16 +78,17 @@ h2 {
 	width: 960px;
 	overflow: hidden;
 	margin-bottom: 5px;
+	border:5px;
+	
 }
 
 #header {
-	background-image: url(images/cbcr_negrohumo.gif);
-	background-repeat: repeat-x;
+	background-image: url(images/cabecera2013.jpg);
+	
 	float: left;
 	height: 101px;
 	width: 960px;
-	padding-top: 8px;
-	padding-bottom: 4px;
+	
 }
 #botones_a {
 	background-image: url(images/botones_a.gif);

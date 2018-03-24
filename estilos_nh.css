@@ -6,6 +6,7 @@ body {
 	color: #333333;
 	background-color: #fff;
 	margin: 0px;
+	background-image: url(images/fondo-x.jpg);
 	
 	
 }
@@ -425,6 +426,15 @@ margin-top:10px;
 width:400px;
 height:400px;
 background: url('images/TMapp_prt_1.jpg') no-repeat center top;
+float:left;
+}
+
+#imagencyc{
+
+margin-top:10px;
+width:400px;
+height:400px;
+background: url('images/vinetas_3.jpg') no-repeat center top;
 float:left;
 }
 

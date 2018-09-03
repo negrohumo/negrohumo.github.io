@@ -447,6 +447,14 @@ background: url('images/1vector.jpg') no-repeat center top;
 float:left;
 }
 
+#imageneuridice{
+
+margin-top:10px;
+width:400px;
+height:400px;
+background: url('images/euridice_1.jpg') no-repeat center top;
+float:left;
+}
 
 #espacioficha{
 

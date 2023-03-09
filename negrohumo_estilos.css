@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  background-color: black;
+	margin-top: 50px;
+}
+.logo {
+  text-align: center;
+}
+.listado {
+  text-align: center;
+	padding-right: 45px;
+  
+}
+a {
+    color:white;
+    font-size:20px;
+	 font-color:"FFFFFF";
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+	}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
